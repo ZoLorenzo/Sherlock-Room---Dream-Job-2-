@@ -22,7 +22,7 @@ Project write-up on investigating Lazaru Group's "Dream Job" operation. In order
 
 <p align="center">
 Q1: According to MITRE ATT&CK, what previously known malware does DRATzarus share similarities with? <br/>
-<img src="https://imgur.com/clvzdAH" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/clvzdAH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
