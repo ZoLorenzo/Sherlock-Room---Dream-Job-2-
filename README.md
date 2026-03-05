@@ -21,9 +21,9 @@ Project write-up on investigating Lazaru Group's "Dream Job" operation. In order
 <h2>H.T.B sherlock Walk-Through:</h2>
 
 <!-- <p align="center"> -->
-<h3>According to MITRE ATT&CK, what previously known malware does DRATzarus share similarities with?</h3>
-Q1: According to MITRE ATT&CK, what previously known malware does DRATzarus share similarities with? <br/>
+<h3>Q1: According to MITRE ATT&CK, what previously known malware does DRATzarus share similarities with?</h3>
 <img src="https://imgur.com/clvzdAH.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+To find this answer, you must travel to the MITRE ATT&CK website and search for DRATzarus. This is a software that we're searching for. Once we're on that page, then <br/>
 <br />
 <br />
 Select the disk:  <br/>
