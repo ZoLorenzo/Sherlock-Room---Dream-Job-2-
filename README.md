@@ -20,7 +20,8 @@ Project write-up on investigating Lazaru Group's "Dream Job" operation. In order
 
 <h2>H.T.B sherlock Walk-Through:</h2>
 
-<p align="center">
+<!-- <p align="center"> -->
+<h3>According to MITRE ATT&CK, what previously known malware does DRATzarus share similarities with?</h3>
 Q1: According to MITRE ATT&CK, what previously known malware does DRATzarus share similarities with? <br/>
 <img src="https://imgur.com/clvzdAH.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
