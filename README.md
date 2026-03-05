@@ -1,4 +1,4 @@
-<h1>Sherlock-Room---Dream-Job-2</h1>
+<h1>Sherlock Room - DreamJob-2</h1>
 
 <!-- ### -->
 
@@ -21,8 +21,8 @@ Project write-up on investigating Lazaru Group's "Dream Job" operation. In order
 <h2>H.T.B sherlock Walk-Through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Q1: According to MITRE ATT&CK, what previously known malware does DRATzarus share similarities with? <br/>
+<img src="https://imgur.com/clvzdAH" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
